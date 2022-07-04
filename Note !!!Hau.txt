@@ -30,3 +30,8 @@ https://mba-dev.dotnets.org/api/barcode/fbda9
 baseURl: "https://mba-dev.dotnets.org/"
 api/order/by-id/
 npm run start-android-2
+
+chỗ tìm mã: uniqueId
+/api/Order/by-uniqueId/{uniqueId}
+id demo Scan,barcode: https://tiembanhngon.com/don/7190b7eb-390d-4c0d-9d16-ef4c74efbda9
+

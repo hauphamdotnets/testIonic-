@@ -1,0 +1,32 @@
+https://mail.yandex.com/?
+tk: hau.pham@dotnets.org
+Pass: Hau1000!
+download :Slack
+ionic: đọc doc
+coi youtuber: ionic simmon
+fix error : maybe: Ionic Tutorial #1 - Overview, installation and creating the project (youtube)
+tk github: hauphamdotnets
+https://mba.dotnets.org//api/
+url test random: https://mba.dotnets.org//api/shop/get-all
+test Api: https://mba.dotnets.org/swagger/index.html
+note!!!!!!
+getProductCategoriesByShop: nhận danh mục sản phẩm theo cửa hàng.
+web admin: TK: 123456789 ; pass: 9999 
+TKDNpage : vi.nguyen
+MKDNpage : Vi1000!@
+may be learn angular: https://www.c-sharpcorner.com/learn/angular-8-in-10-days (i found it myself)
+class="hoverImages" style="margin-top:5px ;"
+
+hôm nay e clone repo nets-pos và chạy thử trên android nha
+clone project from git :
++ begin : cmd: npm i --f (bắt buộc)
++ không cần thêm 2 file package-lock.json và package.json
+web net-pos: TK: 0123456789 ; pass: 9999 
+trước khi chạy tiếp thì build lại =  ionic cap sync
+debug web: chrome://inspect#devices
+pull code về nhánh develop
+git: tạo nhánh dựa vào nhánh dc giao cú pháp: " i-Nhánh được giao tên nhánh "
+https://mba-dev.dotnets.org/api/barcode/fbda9
+baseURl: "https://mba-dev.dotnets.org/"
+api/order/by-id/
+npm run start-android-2

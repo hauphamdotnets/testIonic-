@@ -1,4 +1,4 @@
-https://mail.yandex.com/?
+Fhttps://mail.yandex.com/?
 tk: hau.pham@dotnets.org
 Pass: Hau1000!
 download :Slack
@@ -16,7 +16,7 @@ TKDNpage : vi.nguyen
 MKDNpage : Vi1000!@
 may be learn angular: https://www.c-sharpcorner.com/learn/angular-8-in-10-days (i found it myself)
 class="hoverImages" style="margin-top:5px ;"
-
+Trà sữa: Hướng Dương.
 hôm nay e clone repo nets-pos và chạy thử trên android nha
 clone project from git :
 + begin : cmd: npm i --f (bắt buộc)
@@ -34,4 +34,82 @@ npm run start-android-2
 chỗ tìm mã: uniqueId
 /api/Order/by-uniqueId/{uniqueId}
 id demo Scan,barcode: https://tiembanhngon.com/don/7190b7eb-390d-4c0d-9d16-ef4c74efbda9
+the tab is inactive.
+JJ0407-T9L
+
+getOrder(id: number): Observable<any> {
+    return this
+      .http
+      .get(this.commonService.baseUrl + "api/order/by-id/" + id, this.commonService.getAuthHeader(true))
+      .pipe(
+        catchError((err) => {
+          return this.commonService.handleError(err);    //Rethrow it back to component
+        })
+      )
+  }
+
+	let orderId= barcodeData.text.slice(1);
+        this.router.navigateByUrl("new-edit-order/" + orderId)
+
+orderUniqueId
+orderNumberId
+Lấy ID 
+không sửa gì trong file new-edit-order
+xài start witch
+
+Lỗi 401 Error: Unauthorized: test bằng postman: mở Headers gắn key token vào Headers để có xác thực. Phần xác thực lấy bằng cách ấn f12 ở trang web => vào phần Network tìm đoạn mã bắt đầu bằng Authorization.
+isua new
+if else startswitk bỏ hết
+Truyền vô api: GET /api/Barcode/{shopId}/{barcode}
+https://tiembanhngon.com/don/7190b7eb-390d-4c0d-9d16-ef4c74efbda9
+#JJ0407-T9L
+url endcode
+có 2 loại param là / là unique param và ? query param
+mã hoá lại chuỗi unique: encodeURIComponent vd: # => %23
+ip product: 2486
+/api/Product/by-id/{productId}
+
+050239301407003 qr code
+05011307002 bar code
+codeScanByScanMachine:any;
+RA-2-p0-93P5XT2R
+RA-2-p0-ZWQBP525
+020471507000
+020471507001
+RA-2-p0-ZWQBP525
+RA-2-p0-3URXHFLI
+011507001
+030571807000
+npm install ngx-echarts@8.0.1
+
+getProductCategoryById
+api/productCategory/
+getProductbarcode
+
+0241904951807000
+Apache Echarts - create series with a loop
+
+sửa conflict(xung đột)
+_đầu tiên vào nhánh main nết net-pos thì vào nhánh dev
+_xong ấn kí hiệu xoay kế nhánh main or dev, 
+_ Trở lại nhánh của mình và sửa xung đột
+
+logo.png
+
+_ học lại cách đặt tên hàm sao cho dễ hiểu
+_ dùng ._each thay cho for
+_ sửa lại code nhánh đó luôn.
+tạo 1 tài khoản driver change
+tkdriver: 0704408320
+pass: 9999
+
+
+
+
+
+
+
+
+
+
 
